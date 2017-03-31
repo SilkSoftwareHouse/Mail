@@ -1,11 +1,7 @@
 {
-    "name" : "jasuwienas/mail",
+    "name" : "mmc/jasuwienas-mail",
     "description" : "Integrates mailer into Symfony2 project.",
     "type" : "symfony-bundle",
-    "authors" : [{
-        "name" : "Jasuwienas Mariusz",
-        "email" : "jasuwienas@gmail.com"
-    }],
     "keywords" : [
         "mailer symfony2"
     ],
