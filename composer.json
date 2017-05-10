@@ -1,5 +1,5 @@
 {
-    "name" : "mmc/jasuwienas-mail",
+    "name" : "silksh/jasuwienas-mail",
     "description" : "Integrates mailer into Symfony2 project.",
     "type" : "symfony-bundle",
     "keywords" : [
